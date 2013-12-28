@@ -10,11 +10,11 @@
 (defvar *uri* "http://127.0.0.1:8332"
   "The uri that will be used to connect to the bitcoind server")
 
-(defvar *username* "jordan"
+(defvar *username* "user"
   "The username that will be used for basic authentication when
    making requests to the bitcoind server")
 
-(defvar *password* "kingsparrow12"
+(defvar *password* "password"
   "The password that will be used for basic authentication when
    making requests to the bitcoind server")
 
