@@ -1,0 +1,1 @@
+Currently a work in progress, cl-bitcoin is intended to be a simple Common Lisp wrapper around the API exposed by the Bitcoin server. 
